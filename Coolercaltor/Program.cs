@@ -24,10 +24,6 @@ namespace Coolercaltor
             } else if (type == "*")
             {
              Console.WriteLine(Multiply(num1,num2));
-<<<<<<< HEAD
-=======
-
->>>>>>> parent of 8d7dfa0 (din mor feature)
             }
             else
             {
