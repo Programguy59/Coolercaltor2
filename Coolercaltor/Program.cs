@@ -17,16 +17,13 @@ namespace Coolercaltor
                 Console.WriteLine(Plus(num1,num2));
             } else if (type == "-")
             {
-
-             Console.WriteLine(Minus(num1,num2));
+              Console.WriteLine(Minus(num1,num2));
             } else if (type == "/")
             {
-
              Console.WriteLine(Division(num1,num2));
             } else if (type == "*")
             {
              Console.WriteLine(Multiply(num1,num2));
-
             }
             else
             {
