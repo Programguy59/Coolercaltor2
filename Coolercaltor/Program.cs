@@ -9,8 +9,7 @@ namespace Coolercaltor
             Console.Write("please enter first number: ");
             double num1 = Convert.ToDouble(Console.ReadLine());
             Console.Write("please enter second number: ");
-            //thisi s a sad mocm
-            double num2 = Convert.ToDouble(Console.Readine());
+            double num2 = Convert.ToDouble(Console.ReadLine());
             Console.Write("what operation would you like to perform: ");
             string type = Console.ReadLine();
          
