@@ -10,7 +10,7 @@ namespace Coolercaltor
             double num1 = Convert.ToDouble(Console.ReadLine());
             Console.Write("please enter second number: ");
             double num2 = Convert.ToDouble(Console.ReadLine());
-            Console.Write("what operation would you like to perform now: ");
+            Console.Write("what operation would you like to perform now, choose + - * or /: ");
             string type = Console.ReadLine();
             if(type == "+")
             {
@@ -27,6 +27,10 @@ namespace Coolercaltor
             {
              Console.WriteLine(Multiply(num1,num2));
 
+            }
+            else
+            {
+                Console.WriteLine("Du er dum, start forfra");
             }
          
 
