@@ -6,12 +6,13 @@ namespace Coolercaltor
     {
         static void Main(string[] args)
         {
-            Console.Write("plaese enter first number: ");
+            Console.Write("please enter first number: ");
             double num1 = Convert.ToDouble(Console.ReadLine());
-            Console.Write("plaese enter second number: ");
+            Console.Write("please enter second number: ");
             double num2 = Convert.ToDouble(Console.ReadLine());
-
-
+            Console.Write("what operation would you like to perform: ");
+            string type = Console.ReadLine();
+         
 
         }
         public double plus(int num1, int num2)
