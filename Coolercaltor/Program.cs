@@ -8,5 +8,13 @@ namespace Coolercaltor
         {
             Console.WriteLine("Hello World!");
         }
+
+        public double division(int num1, int num2) 
+        {
+
+
+        } 
+
+
     }
 }
