@@ -14,37 +14,37 @@ namespace Coolercaltor
             string type = Console.ReadLine();
             if(type == "+")
             {
-                Console.WriteLine(plus(num1,num2));
+                Console.WriteLine(Plus(num1,num2));
             } else if (type == "-")
             {
 
-             Console.WriteLine(minus(num1,num2));
+             Console.WriteLine(Minus(num1,num2));
             } else if (type == "/")
             {
 
-             Console.WriteLine(division(num1,num2));
+             Console.WriteLine(Division(num1,num2));
             } else if (type == "*")
             {
-             Console.WriteLine(multiply(num1,num2));
+             Console.WriteLine(Multiply(num1,num2));
 
             }
          
 
         }
-        static double plus(double num1, double num2)
+        static double Plus(double num1, double num2)
         {
             return num1 + num2;
         }
-        static double division(double num1, double num2)
+        static double Division(double num1, double num2)
         {
 
             return num1 / num2;
         }
-        static double multiply(double num1, double num2)
+        static double Multiply(double num1, double num2)
         {
             return num1 * num2;
         }
-        static double minus(double num1, double num2)
+        static double Minus(double num1, double num2)
         {
             return num1 - num2;
         }
