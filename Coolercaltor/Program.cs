@@ -23,6 +23,14 @@ namespace Coolercaltor
 
             return num1 / num2;
         }
+        public double multiply(int num1, int num2)
+        {
+            return num1 * num2;
+        }
+        public double minus(int num1, int num2)
+        {
+            return num1 - num2;
+        }
     }
 }
 
