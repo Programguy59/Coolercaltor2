@@ -1,0 +1,29 @@
+Fil-stuktur:
+en stor mappe med h1 repos i
+ 
+Ét repo eller mange :
+mange repos for hver projekt
+
+Adgangskontrol:
+repos er private med kun mig og gruppemedlemer der har adgang
+
+Hvordan skal i holde struktur i filer?:
+tænker fordi det lægger i en mappe struktur hvor de er delt ud i hovetforløb kalder jeg projektet hvad det er uden noget extra
+ 
+Navngivning af filer:
+projektets navn
+
+Kommantar i code:
+kommantere kun hvis noget kode kan være svært at se hvad gører 
+
+Navngivning af variabler og metoder:
+variabler navngives med camelcase og metoder navngives med camelcase men med stort start bugstav
+
+Hvad skal der beskrives i commit beskeder?:
+hvad der har ændert sig
+
+Hvad er grunden til at i vil branche?:
+hvis man skal arbejde på noget uden at blive forstyrret
+
+Hvordan vil i lave code review?
+vise hvad man har lavet og tale om det
