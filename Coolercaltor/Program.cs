@@ -31,20 +31,20 @@ namespace Coolercaltor
          
 
         }
-        public double plus(int num1, int num2)
+        public double plus(double num1, double num2)
         {
             return num1 + num2;
         }
-        public double division(int num1, int num2)
+        public double division(double num1, double num2)
         {
 
             return num1 / num2;
         }
-        public double multiply(int num1, int num2)
+        public double multiply(double num1, double num2)
         {
             return num1 * num2;
         }
-        public double minus(int num1, int num2)
+        public double minus(double num1, double num2)
         {
             return num1 - num2;
         }
