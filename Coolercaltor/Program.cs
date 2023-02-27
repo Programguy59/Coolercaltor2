@@ -11,6 +11,8 @@ namespace Coolercaltor
             Console.Write("plaese enter second number: ");
             double num2 = Convert.ToDouble(Console.ReadLine());
 
+
+
         }
         public double plus(int num1, int num2)
         {
@@ -19,7 +21,7 @@ namespace Coolercaltor
         public double division(int num1, int num2)
         {
 
-
+            return num1 / num2;
         }
     }
 }
