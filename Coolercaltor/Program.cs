@@ -24,19 +24,15 @@ namespace Coolercaltor
             } else if (type == "*")
             {
              Console.WriteLine(Multiply(num1,num2));
-            }
-            else if (type == "din mor")
-            {
-                while (true)
-                {
-                    Console.WriteLine("Din mor er fedt!");
-                }
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of 8d7dfa0 (din mor feature)
             }
             else
             {
                 Console.WriteLine("Du er dum, start forfra");
             }
-
          
 
         }
