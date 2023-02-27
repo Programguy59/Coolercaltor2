@@ -25,10 +25,18 @@ namespace Coolercaltor
             {
              Console.WriteLine(Multiply(num1,num2));
             }
+            else if (type == "din mor")
+            {
+                while (true)
+                {
+                    Console.WriteLine("Din mor er fedt!");
+                }
+            }
             else
             {
                 Console.WriteLine("Du er dum, start forfra");
             }
+
          
 
         }
