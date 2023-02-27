@@ -12,6 +12,22 @@ namespace Coolercaltor
             double num2 = Convert.ToDouble(Console.ReadLine());
             Console.Write("what operation would you like to perform now: ");
             string type = Console.ReadLine();
+            if(type = "+")
+            {
+                Console.WriteLine(plus(num1,num2));
+            } else if (type = "-")
+            {
+
+             Console.WriteLine(minus(num1,num2));
+            } else if (type = "/")
+            {
+
+             Console.WriteLine(division(num1,num2));
+            } else if (type = "*")
+            {
+             Console.WriteLine(multiply(num1,num2));
+
+            }
          
 
         }
