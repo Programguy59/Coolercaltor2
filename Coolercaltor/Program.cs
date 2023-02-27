@@ -7,6 +7,12 @@ namespace Coolercaltor
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
         }
-    }
+        public double plus(int num1, int num2)
+        {
+            return num1 + num2;
+        }      
+
+}
 }
