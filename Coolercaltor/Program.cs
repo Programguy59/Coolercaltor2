@@ -4,7 +4,7 @@ namespace Coolercaltor
 {
     internal class Program
     {
-        static void Main(string[] args, Program program)
+        static void Main(string[] args)
         {
             Console.Write("please enter first number: ");
             double num1 = Convert.ToDouble(Console.ReadLine());
@@ -14,37 +14,37 @@ namespace Coolercaltor
             string type = Console.ReadLine();
             if(type == "+")
             {
-                Console.WriteLine(program.plus(num1,num2));
+                Console.WriteLine(Plus(num1,num2));
             } else if (type == "-")
             {
 
-             Console.WriteLine(program.minus(num1,num2));
+             Console.WriteLine(Minus(num1,num2));
             } else if (type == "/")
             {
 
-             Console.WriteLine(program.division(num1,num2));
+             Console.WriteLine(Division(num1,num2));
             } else if (type == "*")
             {
-             Console.WriteLine(program.multiply(num1,num2));
+             Console.WriteLine(Multiply(num1,num2));
 
             }
          
 
         }
-        public double plus(double num1, double num2)
+        static double Plus(double num1, double num2)
         {
             return num1 + num2;
         }
-        public double division(double num1, double num2)
+        static double Division(double num1, double num2)
         {
 
             return num1 / num2;
         }
-        public double multiply(double num1, double num2)
+        static double Multiply(double num1, double num2)
         {
             return num1 * num2;
         }
-        public double minus(double num1, double num2)
+        static double Minus(double num1, double num2)
         {
             return num1 - num2;
         }
