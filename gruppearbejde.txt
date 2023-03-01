@@ -1,0 +1,6 @@
+Magnus, laurits, Bastian og Casper
+
+dukumentere til at have næmere at komme tilbage til 
+beskrive programmets mål 
+gode navngivet viabler og metoder
+bruge kommentarer 
