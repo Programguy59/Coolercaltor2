@@ -1,0 +1,17 @@
+Bastian, Casper, Laurits og Magnus
+
+
+Hvad betyder det at dokumentere? Ud fra jeres intuition beskriv:
+
+
+Hvad er formålet med dokumentation?
+At sørge for at andre (inkl sig selv) hurtigt kan forstå koden.
+
+Hvordan vil I gribe det an hvis i skulle beskrive et program og begrunde jeres valg?
+Beskrive hvad programmets mål er, sørge for at koden ikke er for snirklet og at variabler og metoder er godt navngivet.
+Samtidig ville jeg også skrive kommentarer i koden hvis det ikke er letlæseligt.
+
+Hvilke værktøjer vil I bruge
+// i visual studio laver kommentarer
+
+
