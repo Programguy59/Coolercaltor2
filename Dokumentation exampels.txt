@@ -1,6 +1,8 @@
 Good!
 https://www.reddit.com/r/ProgrammerHumor/comments/4zc2la/so_what_is_the_best_comment_in_source_code_you/
+https://cppbetterexplained.com/wp-content/uploads/2015/01/good-commenting-example.jpg
 
 
 Bad!
 https://www.reddit.com/r/ProgrammerHumor/comments/ypskcs/the_most_upvoted_comment_picks_the_next_line_of/
+
