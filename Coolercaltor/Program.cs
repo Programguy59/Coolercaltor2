@@ -27,6 +27,7 @@ namespace Coolercaltor
             }
             else
             {
+                //Hvis du skriver noget der ikke er + - * eller /
                 Console.WriteLine("Du er dum, start forfra");
             }
          
